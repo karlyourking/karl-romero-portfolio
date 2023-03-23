@@ -1,13 +1,13 @@
 .project-aside-colors {
     color: white;
-    background: orangered;
+    background: black;
   }
 
   .project-details-colors {
     background-image: linear-gradient(-225deg,
-        #ff057c 0%,
-        #8d0b93 50%,
-        #321575 100%);
+        #000000 0%,
+        #000000 50%,
+        #000000 100%);
   }
   
   .project-wrapper-colors {

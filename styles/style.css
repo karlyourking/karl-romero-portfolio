@@ -52,7 +52,7 @@ No media query for `xs` since this is the default in Bootstrap
 html {
   box-sizing: border-box;
   scroll-behavior: smooth;
-  cursor: url("../assets/temp/up-cursor.png"), auto !important;
+  cursor: url("../assets/temp/cursor\ 2.png"), auto !important;
 }
 
 *,
@@ -77,12 +77,12 @@ html {
   --accent-color: #5200FF;
   --overlay-color: #5200FF;
   --hyperlink-color: #444;
-  --hyperlink-alternate-color: orangered;
+  --hyperlink-alternate-color: orange;
   --hover-color: #111;
   --body-typeface: "Inter", sans-serif;
   --heading-typeface: 'Eczar', serif;
   --project-title-typeface: 'Eczar', serif;
-  --project-title-color: #723850;
+  --project-title-color: #ffffff;
   --heart-color: darkred;
   --off-white: #f8f8ff;
   --isabelline: #f4f0ec;
